@@ -1,0 +1,4 @@
+Updated Virtual Box. Took screenshot of updated version.Installed Desktop on Ubuntu because could not get welcome page for Railo to come up after installing through terminal.Ran installer from Ubuntu terminal and got welcome screen. Took screenshot of that.Also installed Apache Connector with installer as a dependency.
+
+Python was already as up to date as possible, it was included with Ubuntu. 
+Took a screenshot of terminal showing version of Python.
