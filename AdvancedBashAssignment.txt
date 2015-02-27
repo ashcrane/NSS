@@ -1,0 +1,1 @@
+I used sudo aptitude to update all installed packages on the virtual Ubuntu server. Language packs were updated.Utilities were updated.Mysql was updated.Apache2 was updated.JRE was updated.Java was updated.
